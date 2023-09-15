@@ -13,7 +13,7 @@
 <a href=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white>ваш текст на картинку</a>
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="html5" width="40" height="40"/> </a> <a href="https://www.t.me/zemtsov_dm/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="html5" width="60" height="30"/> </a> <a href="https://www.t.me/zemtsov_dm/" target="_blank" rel="noreferrer">
 
 <h3 align="left">Languages and Tools:</h3>
 
