@@ -30,3 +30,5 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feym4n-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
