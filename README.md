@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-<a href=["img/1.jpg"](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)>ваш текст на картинку</a>
+<a href=(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)>ваш текст на картинку</a>
 (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
