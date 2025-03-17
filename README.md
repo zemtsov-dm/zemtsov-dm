@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-🚀 I'm a Python developer passionate about building web applications with Django and Django REST Framework. I love turning ideas into functional and elegant code. Currently honing my skills and eager to contribute to open-source projects and collaborate with like-minded developers.
+🚀 I'm a Python developer with a strong focus on multi-platform development, leveraging frameworks like QML, Flutter, and React to create seamless, user-friendly applications. I enjoy transforming ideas into elegant, functional code and have experience with DRF, FastAPI. Currently sharpening my skills and excited to contribute to open-source projects and collaborate with fellow developers passionate about cross-platform solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feyman-git&label=Profile%20views&color=0e75b6&style=flat" alt="feyman-git" /> </p>
 
