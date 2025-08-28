@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feyman-git&label=Profile%20views&color=0e75b6&style=flat" alt="feyman-git" /> </p>
 
-- 🌱 I’m currently learning **FastAPI, Asyncio**
+- 🌱 I’m currently learning **FastAPI, Asyncio, Litestar, React**
 
 - 📫 How to reach me **t.me/zemtsov_dm**
 
